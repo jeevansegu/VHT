@@ -69,12 +69,9 @@ section {
   font-size: 7rem;
   color: var(--white);
   font-weight: 200;
-  line-height: 1.2;
+  padding-top: 10%;
 }
 
-.home .home-text span {
-  font-weight: 800;
-}
 
 .home p {
   color: var(--white);
@@ -522,3 +519,22 @@ section {
 }
 /* media queries */
 
+.vplexus {
+  height: 53%;
+  width: 53%;
+  margin:-5%;
+}
+
+.topleft {
+  height: 10%;
+  width: 10%;
+  justify-content: space-evenly;
+  margin-left: -25%;
+  margin-right: -25%;
+  padding-right: -10%;
+}
+
+.toplefta {
+  margin-right: -50%;
+  padding-right: -10%;
+}
